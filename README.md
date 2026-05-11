@@ -15,6 +15,7 @@ demonstrating wireless power transfer through resonant inductive coupling.
 |---|---|
 | Copper Coil (transmitter) | Generates oscillating magnetic field |
 | Copper Coil (receiver) | Picks up magnetic field and converts to current |
+| 2N2222 Transistor | Drives oscillation in the transmitter coil |
 | LED | Powered wirelessly by receiver coil |
 
 ## The Build
